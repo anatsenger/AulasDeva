@@ -1,3 +1,5 @@
+package PrimeiraAula;
+
 public class ex2 {
     public static void main(String[] args) {
         //Escreva um programa que informa a tabuada de multiplicação, de um número informado (entre 1-10).

@@ -1,3 +1,5 @@
+package PrimeiraAula;
+
 public class ex5 {
     public static void main(String[] args) {
         //Escreva um programa que realiza conversão de medidas de polegadas em centímetros.
