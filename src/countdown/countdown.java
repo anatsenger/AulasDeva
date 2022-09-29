@@ -1,13 +1,8 @@
 package countdown;
 
-
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.lang.Thread;
-
-
-import java.util.Locale;
-
 
 public class countdown {
 
